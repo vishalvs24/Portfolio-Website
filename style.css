@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 
 :root{
-    --yellow:#f9ca24;
+    --green:#00FF00.;
 }
 
 *{
@@ -14,10 +14,10 @@
     transition: all .2s linear;
 }
 .fa-envelope{
-    color:var(--yellow) !important;
+    color:var(--green) !important;
 }
 *::selection{
-    background:var(--yellow);
+    background:var(--green);
     color:#333;
 }
 .Email_id{
@@ -40,7 +40,7 @@ html::-webkit-scrollbar-track{
 }
 
 html::-webkit-scrollbar-thumb{
-    background:var(--yellow);
+    background:var(--green);
 }
 
 body{
@@ -70,7 +70,7 @@ section{
 }
 
 .btn:hover{
-    background:var(--yellow);
+    background:var(--green);
 }
 
 .heading{
@@ -83,7 +83,7 @@ section{
 }
 
 .heading span{
-    color:var(--yellow);
+    color:var(--green);
 }
 
 header{
@@ -106,7 +106,7 @@ header .user img{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border:.7rem solid var(--yellow);
+    border:.7rem solid var(--green);
 }
 
 header .user .name{
@@ -140,7 +140,7 @@ header .navbar ul li a{
 }
 
 header .navbar ul li a:hover{
-    background:var(--yellow);
+    background:var(--green);
 }
 
 #menu{
@@ -173,7 +173,7 @@ header .navbar ul li a:hover{
 }
 
 .home h1 span{
-    color:var(--yellow);
+    color:var(--green);
 }
 
 .home p{
@@ -198,7 +198,7 @@ header .navbar ul li a:hover{
 
 .about .row .info h3{
     font-size: 2rem;
-    color:var(--yellow);
+    color:var(--green);
     padding:1rem 0;
     font-weight: normal;
 }
@@ -225,7 +225,7 @@ header .navbar ul li a:hover{
 
 .about .row .counter .box span{
     font-size: 4rem;
-    color:var(--yellow);
+    color:var(--green);
 }
 
 .about .row .counter .box h3{
@@ -280,7 +280,7 @@ header .navbar ul li a:hover{
     text-align: center;
     font-size: 2rem;
     color:#fff;
-    background:var(--yellow);
+    background:var(--green);
 }
 
 .portfolio .box-container{
@@ -367,7 +367,7 @@ header .navbar ul li a:hover{
 
 .contact .row .content .info h3 i{
     padding-right: 1rem;
-    color:var(--yellow);
+    color:var(--green);
 }
 
 .top{
