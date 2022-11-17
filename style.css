@@ -44,8 +44,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 body{
-    background-image: url("background image.jpeg");
-   /* background:#111;*/
+    background:#111;
     overflow-x: hidden;
     padding-left: 35rem;
 }
